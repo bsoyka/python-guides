@@ -31,12 +31,11 @@ must follow our [Code of Conduct][code-of-conduct].
 
 ## Legal information
 
-This repository is licensed under the MIT License. See the [`LICENSE`][license] file for
-the full license text. You are welcome to use and share the contents of this
-repository as long as you follow the license. Attribution is always
-appreciated but not required. As per the license, the code in this repository
-is provided without warranty, and I will not be held liable for any outcome it
-may cause.
+This repository is licensed under the MIT License. See the
+[`LICENSE`][license] file for the full license text. You are welcome to use
+and share the contents of this repository as long as you follow the terms of
+the license. Attribution is appreciated but not required. As per the license
+terms, the code in this repository is provided without any warranty.
 
 [code-of-conduct]: https://github.com/bsoyka/.github/blob/main/CODE_OF_CONDUCT.md
 [discussions]: https://github.com/bsoyka/pydis/discussions
