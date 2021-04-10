@@ -1,7 +1,7 @@
 # Python Discord Guides
 
 [![Python Discord][pydis-badge]][invite]
-[![License][license-badge])][license]
+[![License][license-badge]][license]
 
 Hey there! These are my personal guides to help others with their programming
 questions on [Python Discord][invite]. **This project is in no way affiliated
