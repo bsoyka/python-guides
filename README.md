@@ -1,19 +1,15 @@
-# Python Discord Guides
+# Python Guides
 
-[![Python Discord][pydis-badge]][invite]
 [![License][license-badge]][license]
 
 Hey there! These are my personal guides to help others with their programming
-questions on [Python Discord][invite]. **This project is in no way affiliated
-with Python Discord.**
+questions on various platforms. **This project is in no way affiliated with
+any plaform or community in any way.**
 
 All guides are formatted with Markdown and located in the [`guides`][guides]
 folder.
 
 ## Asking for help
-
-If you have general Python-related questions, join [Python Discord][invite]
-and take a look at the [`#❔︱how-to-get-help`][get-help] channel.
 
 If you have any questions or comments about these guides or their content, you
 can direct them to a new [GitHub discussion][discussions] or `bsoyka#0001` on
@@ -39,10 +35,7 @@ terms, the code in this repository is provided without any warranty.
 
 [code-of-conduct]: https://github.com/bsoyka/.github/blob/main/CODE_OF_CONDUCT.md
 [discussions]: https://github.com/bsoyka/pydis/discussions
-[get-help]: https://discord.com/channels/267624335836053506/704250143020417084
 [guides]: https://github.com/bsoyka/pydis/tree/main/guides
-[invite]: https://discord.gg/python
 [issues]: https://github.com/bsoyka/pydis/issues
 [license-badge]: https://img.shields.io/github/license/bsoyka/pydis
 [license]: https://github.com/bsoyka/pydis/blob/main/LICENSE
-[pydis-badge]: https://raw.githubusercontent.com/python-discord/branding/main/logos/badge/badge_github.svg
