@@ -20,10 +20,11 @@ While we are not affiliated with any platform or community, we recommend
 
 ## Contributing
 
-**This project isn't looking for outside contributions at the moment.** If you
-notice something that seems off or want to suggest a new guide, feel free to
-make a GitHub [issue][issues] or [discussion][discussions] to let me know, or
-send me a message at `bsoyka#0262` on Discord.
+Take a look at [CONTRIBUTING.md](CONTRIBUTING.md) to help out!
+
+If you notice something that seems off or want to suggest a new guide, feel
+free to make a GitHub [issue][issues] or [discussion][discussions] to let me
+know, or send me a message at `bsoyka#0262` on Discord.
 
 All communication in community spaces managed in connection with this project
 must follow our [Code of Conduct][code-of-conduct].
