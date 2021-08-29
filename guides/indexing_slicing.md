@@ -1,6 +1,6 @@
 # Indexing and Slicing
 
-> *[`License`](https://github.com/bsoyka/pydis/blob/main/LICENSE)*
+> *[`License`](https://github.com/bsoyka/python-guides/blob/main/LICENSE)*
 
 Lists are easily one of the most powerful and versatile features of Python,
 especially because of their slice notation. This applies to *all* sequential

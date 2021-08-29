@@ -12,15 +12,18 @@ folder.
 ## Asking for help
 
 If you have any questions or comments about these guides or their content, you
-can direct them to a new [GitHub discussion][discussions] or `bsoyka#0001` on
+can direct them to a new [GitHub discussion][discussions] or `bsoyka#0262` on
 Discord.
+
+While we are not affiliated with any platform or community, we recommend
+[Python Discord][pydis] as a place to ask questions if you need help.
 
 ## Contributing
 
 **This project isn't looking for outside contributions at the moment.** If you
 notice something that seems off or want to suggest a new guide, feel free to
 make a GitHub [issue][issues] or [discussion][discussions] to let me know, or
-send me a message at `bsoyka#0001` on Discord.
+send me a message at `bsoyka#0262` on Discord.
 
 All communication in community spaces managed in connection with this project
 must follow our [Code of Conduct][code-of-conduct].
@@ -34,8 +37,9 @@ the license. Attribution is appreciated but not required. As per the license
 terms, the code in this repository is provided without any warranty.
 
 [code-of-conduct]: https://github.com/bsoyka/.github/blob/main/CODE_OF_CONDUCT.md
-[discussions]: https://github.com/bsoyka/pydis/discussions
-[guides]: https://github.com/bsoyka/pydis/tree/main/guides
-[issues]: https://github.com/bsoyka/pydis/issues
-[license-badge]: https://img.shields.io/github/license/bsoyka/pydis
-[license]: https://github.com/bsoyka/pydis/blob/main/LICENSE
+[discussions]: https://github.com/bsoyka/python-guides/discussions
+[guides]: https://github.com/bsoyka/python-guides/tree/main/guides
+[issues]: https://github.com/bsoyka/python-guides/issues
+[license-badge]: https://img.shields.io/github/license/bsoyka/python-guides
+[license]: https://github.com/bsoyka/python-guides/blob/main/LICENSE
+[pydis]: https://discord.gg/python
