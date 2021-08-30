@@ -1,0 +1,17 @@
+name: New guide
+description: Suggest a new guide topic
+title: Add a guide on xyz
+labels: ["a: guides", "l: 1 - intermediate", "t: new guide"]
+body:
+    - type: markdown
+      attributes:
+          value: |
+              Thanks for taking the time to fill out this suggestion form!
+    - type: textarea
+      id: contents
+      attributes:
+          label: What should the guide include?
+          description: Tell us what you'd like this guide to include.
+          placeholder: "- List concepts here"
+      validations:
+          required: true
