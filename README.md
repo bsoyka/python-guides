@@ -15,7 +15,7 @@ If you have any questions or comments about these guides or their content, you
 can direct them to a new [GitHub discussion][discussions] or `bsoyka#0262` on
 Discord.
 
-While we are not affiliated with any platform or community, we recommend
+While I am not affiliated with any platform or community, I recommend
 [Python Discord][pydis] as a place to ask questions if you need help.
 
 ## Contributing
